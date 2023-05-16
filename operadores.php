@@ -10,12 +10,15 @@
     <?php
         //1. operaciones aritmeticas
             
-        /* $x=20;
+         $x=20;
         $y=3;
         $z=null;
 
         $z = $x + $y;
-        echo $z */
+        echo $z;
+        
+        $z = $x - $y;
+        echo $z;
 
         $counter = 1;
         //$counter = $counter +1;
